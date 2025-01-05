@@ -1,0 +1,54 @@
+
+[
+    {
+      "id": 1,
+      "Cover_image_link": "https://images.app.goo.gl/zqUSSmFNP113ZCU6A",
+      "title": "The Science of Learning",
+      "author": "Dr. John Smith",
+      "author_image": "https://images.app.goo.gl/X5nzXV2sAZTm6fUf8",
+      "posted_date": "2025-01-04",
+      "reading_time": "15 minutes",
+      "hashtags": ["#education", "#learning", "#science"]
+    },
+    {
+      "id": 2,
+      "Cover_image_link": "https://images.app.goo.gl/UXN4gzjpjFcXvEED7",
+      "title": "A Journey Through Chemistry",
+      "author": "Emily Davis",
+      "author_image": "https://images.app.goo.gl/bwU8nBgPGyxJtASJ7",
+      "posted_date": "2025-01-03",
+      "reading_time": "10 minutes",
+      "hashtags": ["#chemistry", "#science", "#education"]
+    },
+    {
+      "id": 3,
+      "Cover_image_link": "https://images.app.goo.gl/n9Hdg2r1sCpvxK9u9",
+      "title": "The Future of ICT",
+      "author": "Michael Lee",
+      "author_image": "https://images.app.goo.gl/X4m8S1G3xLVBjFTc9",
+      "posted_date": "2025-01-02",
+      "reading_time": "20 minutes",
+      "hashtags": ["#ICT", "#technology", "#future"]
+    },
+    {
+      "id": 4,
+      "Cover_image_link": "https://images.app.goo.gl/2kEEXC4ZAdyuyyoCA",
+      "title": "Mastering Biology",
+      "author": "Sarah Brown",
+      "author_image": "https://images.app.goo.gl/mMhWgHxKf6X8hPk68",
+      "posted_date": "2025-01-01",
+      "reading_time": "25 minutes",
+      "hashtags": ["#biology", "#learning", "#science"]
+    },
+    {
+      "id": 5,
+      "Cover_image_link": "https://images.app.goo.gl/NpeUTKqxd9EHqJYy5",
+      "title": "Exploring ICT Innovations",
+      "author": "David Johnson",
+      "author_image": "https://images.app.goo.gl/P3doKgbukQNtYHAR7",
+      "posted_date": "2024-12-31",
+      "reading_time": "18 minutes",
+      "hashtags": ["#ICT", "#technology", "#innovation"]
+    }
+  ]
+  
