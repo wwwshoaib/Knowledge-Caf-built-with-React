@@ -6,8 +6,11 @@ const Bookmark = ({bookmark}) => {
     const {title} = bookmark;
   
     return (
+        
+        
         <div className=" space-y-2 my-2">
-            <h2 className="p-4 bg-violet-200 text-xl font-semibold rounded-lg">{title}</h2>
+           
+            <h2 className="p-4 bg-white text-xl font-semibold rounded-lg">{title}</h2>
         
         </div>
     );

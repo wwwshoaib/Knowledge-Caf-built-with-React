@@ -9,18 +9,27 @@ import Bookmarks from './components/Header/Bookmarks/Bookmarks';
 function App() {
 
   const [bookmarks, setBookmarks] = useState([]);
+  // Set sate to hold book reading time
+  const [bookReadingTime, setBookReadingTime] = useState(0);
 
   const handleAddBookmark = blog => {
     const newBookmarks = [...bookmarks, blog];
     setBookmarks(newBookmarks);
+  } 
+
+  //function to calculate total book reading time
+  const handleTotalBookReadingTime = time => {
+    // setBookReadingTime(bookReadingTime + time);
+    const bookReadingTimeNumber = parseInt(time);
+    setBookReadingTime(bookReadingTime + bookReadingTimeNumber)
   }
 
   return (
     <>
       <Header></Header>
       <div className='md:flex max-w-screen-xl mx-auto gap-1'>
-      <Blogs handleAddBookmark = {handleAddBookmark}></Blogs>
-      <Bookmarks bookmarks = {bookmarks}></Bookmarks>
+      <Blogs handleAddBookmark = {handleAddBookmark} handleTotalBookReadingTime = {handleTotalBookReadingTime} ></Blogs>
+      <Bookmarks bookmarks = {bookmarks} bookReadingTime = {bookReadingTime} ></Bookmarks>
       </div>
    
     
