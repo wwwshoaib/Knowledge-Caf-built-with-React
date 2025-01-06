@@ -2,52 +2,52 @@
 [
     {
       "id": 1,
-      "Cover_image_link": "https://images.app.goo.gl/zqUSSmFNP113ZCU6A",
+      "Cover_image_link": "https://i.postimg.cc/pLV2Qr1s/1.jpg",
       "title": "The Science of Learning",
       "author": "Dr. John Smith",
-      "author_image": "https://images.app.goo.gl/X5nzXV2sAZTm6fUf8",
+      "author_image": "https://i.postimg.cc/bw8xNmJM/boy1.png",
       "posted_date": "2025-01-04",
-      "reading_time": "15 minutes",
+      "reading_time": "15",
       "hashtags": ["#education", "#learning", "#science"]
     },
     {
       "id": 2,
-      "Cover_image_link": "https://images.app.goo.gl/UXN4gzjpjFcXvEED7",
+      "Cover_image_link": "https://i.postimg.cc/fbpDhKWP/2.png",
       "title": "A Journey Through Chemistry",
       "author": "Emily Davis",
-      "author_image": "https://images.app.goo.gl/bwU8nBgPGyxJtASJ7",
+      "author_image": "https://i.postimg.cc/dVB87GZ0/boy2.jpg",
       "posted_date": "2025-01-03",
-      "reading_time": "10 minutes",
+      "reading_time": "10",
       "hashtags": ["#chemistry", "#science", "#education"]
     },
     {
       "id": 3,
-      "Cover_image_link": "https://images.app.goo.gl/n9Hdg2r1sCpvxK9u9",
+      "Cover_image_link": "https://i.postimg.cc/gjqW8by9/3.png",
       "title": "The Future of ICT",
       "author": "Michael Lee",
-      "author_image": "https://images.app.goo.gl/X4m8S1G3xLVBjFTc9",
+      "author_image": "https://i.postimg.cc/mrg77h7y/girl1.jpg",
       "posted_date": "2025-01-02",
-      "reading_time": "20 minutes",
+      "reading_time": "20",
       "hashtags": ["#ICT", "#technology", "#future"]
     },
     {
       "id": 4,
-      "Cover_image_link": "https://images.app.goo.gl/2kEEXC4ZAdyuyyoCA",
+      "Cover_image_link": "https://i.postimg.cc/Ghdrr9rb/4.jpg",
       "title": "Mastering Biology",
       "author": "Sarah Brown",
-      "author_image": "https://images.app.goo.gl/mMhWgHxKf6X8hPk68",
+      "author_image": "https://i.postimg.cc/Hs15B6Qx/girl2.jpg",
       "posted_date": "2025-01-01",
-      "reading_time": "25 minutes",
+      "reading_time": "25",
       "hashtags": ["#biology", "#learning", "#science"]
     },
     {
       "id": 5,
-      "Cover_image_link": "https://images.app.goo.gl/NpeUTKqxd9EHqJYy5",
+      "Cover_image_link": "https://img.freepik.com/free-photo/stack-books-with-library-scene_91128-4301.jpg",
       "title": "Exploring ICT Innovations",
       "author": "David Johnson",
-      "author_image": "https://images.app.goo.gl/P3doKgbukQNtYHAR7",
+      "author_image": "https://i.postimg.cc/KcLvxdMD/images-2.jpg",
       "posted_date": "2024-12-31",
-      "reading_time": "18 minutes",
+      "reading_time": "18",
       "hashtags": ["#ICT", "#technology", "#innovation"]
     }
   ]
