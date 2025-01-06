@@ -18,10 +18,12 @@ function App() {
   } 
 
   //function to calculate total book reading time
-  const handleTotalBookReadingTime = time => {
+  const handleTotalBookReadingTime = (id, time) => {
     // setBookReadingTime(bookReadingTime + time);
     const bookReadingTimeNumber = parseInt(time);
     setBookReadingTime(bookReadingTime + bookReadingTimeNumber)
+    const remainingBookmarks = bookmarks.filter(bookmark => bookmark.id !== id);
+    setBookmarks(remainingBookmarks);
   }
 
   return (
@@ -31,8 +33,6 @@ function App() {
       <Blogs handleAddBookmark = {handleAddBookmark} handleTotalBookReadingTime = {handleTotalBookReadingTime} ></Blogs>
       <Bookmarks bookmarks = {bookmarks} bookReadingTime = {bookReadingTime} ></Bookmarks>
       </div>
-   
-    
      
     </>
   )
